@@ -1,7 +1,7 @@
 # Year2_semester1_FALL-26-Sep-Dec-2026-
 July 2026 Reccomended courses
 
-# Project Management
+# Project Management = Construction Practices 2
 Throughout their careers, technicians and technologists will be involved in many projects. Students are introduced to the fundamental principles necessary for the successful management of any project. Through simulation and real project planning, students develop skills in creating proposals, budgets, risk assessments, Gantt charts, critical path reports, progress reports, and other industry standard planning and reporting techniques.
 
 # Intro to 3D CAD Drafting = Intro to Civil 3D
